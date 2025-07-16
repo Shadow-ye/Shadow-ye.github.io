@@ -6,7 +6,7 @@ He is currently a student in QingDao University.
 
 #### Contact
 
-Email: cym1569353578@qq.com
+Email: cym1569353578[at]qq.com
 
 #### Education
 BCSc, Computer Science and Technology, QingDao University, 2024—2028.\
