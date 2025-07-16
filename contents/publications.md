@@ -1,8 +1,8 @@
-#### Submitted   # # # #提交   提交
+#### Submitted
 
 - <strong>Y. Cai</strong>publications-name.
 
-#### Published   # # # #出版   发表
+#### Published
 
 - <strong>Y. Cai</strong>，<strong>name</strong>. 
 
