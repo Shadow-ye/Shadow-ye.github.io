@@ -1,6 +1,6 @@
 
 
-[![shadow-ye](https://img.shields.io/badge/shadow-ye-github-blue?logo=github)](https://github.com/shadow-ye)
+[![shadow-ye](https://img.shields.io/badge/shadow-github-blue?logo=github)](https://github.com/shadow-ye)
 
 He is currently a student in QingDao University.
 
