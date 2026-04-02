@@ -12,5 +12,5 @@ Email: cym1569353578[at]qq.com
 BCSc, Computer Science and Technology, QingDao University, 2024—2028.\
 
 #### Research Interests
-Deep Learning, Data Mining.
+Deep Learning, Data Mining, Database, Parallel Computing.
 
